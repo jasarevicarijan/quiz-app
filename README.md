@@ -1,4 +1,4 @@
-# Quiz App With JS & Reaact
+# Quiz App With JS & React
 
 This is a repository for a Quiz App using JS and React.
 
